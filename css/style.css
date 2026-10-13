@@ -1,0 +1,26 @@
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-right: 20px; /* Espaçamento à direita do logo */
+}
+
+.itens-cabecalho{
+
+    height: 100%;
+    margin-left: 535px; /* Espaçamento à esquerda da logo*/
+}
+.carzone{
+    font-family: 'Orbitron', sans-serif;
+     color: #fcfcfc;
+     font-size: 60px;
+}
+
+.br{
+     font-family: 'Orbitron', sans-serif;   
+    color: #E00012;
+    font-size: 60px;
+}
+
+
